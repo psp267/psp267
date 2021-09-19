@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @psp267
-- 👀 I’m interested in bsuiness alalytsis
+- 👀 I’m interested in bsuiness analysis
 - 🌱 I’m currently learning user stories
 - 💞️ I’m looking to collaborate on jira
 
